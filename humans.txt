@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    joel/wendy
 
 # THANKS
 
-    <name>
+    iwantmyname
 
 # TECHNOLOGY COLOPHON
 

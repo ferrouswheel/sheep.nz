@@ -61,19 +61,16 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+div.horizontal {
+    display: flex;
+    justify-content: center;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+div.vertical {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 /* ==========================================================================
    Media Queries
